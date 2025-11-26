@@ -26,7 +26,7 @@ Cada documento desarrolla un aspecto clave del proceso:
 | **UT5_05_PRIMER_MODULO_ODOO.docx** | Creación de nuevos modelos                        |
 | **UT5_06_PRIMER_MODULO_ODOO.docx** | Relaciones Many2many                              |
 | **UT5_07_PRIMER_MODULO_ODOO.docx** | Relaciones Many2one y One2many                    |
-| **UT5_08_PRIMER_MODULO_ODOO.docx** | *Pendiente*                                       |
+| **UT5_08_PRIMER_MODULO_ODOO.docx** | Icono del módulo y tablas asociadas al módulo     |
 
 ---
 
@@ -38,6 +38,8 @@ Cada documento desarrolla un aspecto clave del proceso:
 * Crear y modificar vistas XML
 * Construir relaciones entre modelos (M2M, O2M, M2O)
 * Comprender el ciclo de vida de un módulo en Odoo
+* Añadir un icono a la aplicación o módulo en Odoo
+* Entender las tablas asociadas a los modelos (entidades) por medio del ORM de Odoo
 
 ---
 
