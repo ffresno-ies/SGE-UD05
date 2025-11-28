@@ -19,14 +19,14 @@ Cada documento desarrolla un aspecto clave del proceso:
 
 | Archivo                            | Descripción                                       |
 | ---------------------------------- | ------------------------------------------------- |
-| **UT5_01_PRIMER_MODULO_ODOO.docx** | Conceptos básicos. Introducción a `odoo scaffold` |
-| **UT5_02_PRIMER_MODULO_ODOO.docx** | Tipos de campos en Odoo                           |
-| **UT5_03_PRIMER_MODULO_ODOO.docx** | Carga de datos de demostración (`demo data`)      |
-| **UT5_04_PRIMER_MODULO_ODOO.docx** | Personalización de la vista formulario            |
-| **UT5_05_PRIMER_MODULO_ODOO.docx** | Creación de nuevos modelos                        |
-| **UT5_06_PRIMER_MODULO_ODOO.docx** | Relaciones Many2many                              |
-| **UT5_07_PRIMER_MODULO_ODOO.docx** | Relaciones Many2one y One2many                    |
-| **UT5_08_PRIMER_MODULO_ODOO.docx** | Icono del módulo y tablas asociadas al módulo     |
+| **UT5_01_PRIMER_MODULO_ODOO** | Conceptos básicos. Introducción a `odoo scaffold` |
+| **UT5_02_PRIMER_MODULO_ODOO** | Tipos de campos en Odoo                           |
+| **UT5_03_PRIMER_MODULO_ODOO** | Carga de datos de demostración (`demo data`)      |
+| **UT5_04_PRIMER_MODULO_ODOO** | Personalización de la vista formulario            |
+| **UT5_05_PRIMER_MODULO_ODOO** | Creación de nuevos modelos                        |
+| **UT5_06_PRIMER_MODULO_ODOO** | Relaciones Many2many                              |
+| **UT5_07_PRIMER_MODULO_ODOO** | Relaciones Many2one y One2many                    |
+| **UT5_08_PRIMER_MODULO_ODOO** | Icono del módulo y tablas asociadas al módulo     |
 
 ---
 
